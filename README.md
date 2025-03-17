@@ -1,0 +1,1 @@
+This project analyzes the Titanic dataset to understand the factors that influenced passenger survival. The dataset contains information about passengers, such as age, gender, class, and whether they survived or not.
